@@ -1,10 +1,10 @@
 # 4years-roadmap
 CareerLaunch - An interactive 4year IT career roadmap platform that helps students build skills, track progress, create projects, practiseDSA and become job- ready.
 
-[Your Project Name]
+[CAREER LAUNCH]
 
 About This Project ��
-Hey there! Welcome to the official repository for [Your Project Name].
+Hey there! Welcome to the official repository for [Career Launch].
 We started this project with a simple idea: to build something that actually solves a real-
 world problem without being overly complicated. Behind the code, we are a passionate
 team of developers, designers, and dreamers trying to make the web a better place. This
@@ -80,6 +80,5 @@ out our CONTRIBUTING.md file for details on how to get started.
 
 �� Let&#39;s Connect
 Have questions, suggestions, or just want to say hi?
-- Twitter: [@YourTwitterHandle]
-- Email: [hello@yourproject.com]
-- Discord: [Join our community]
+- Email: [nidhiiijainnn3110@gmail.com]
+
